@@ -1,5 +1,5 @@
 # PianoScoreboardSix
-通灵王
+通灵王-大日本帝国音乐
 
               NorthernLights
           
